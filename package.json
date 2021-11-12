@@ -1,0 +1,15 @@
+{
+  "name": "jjscript",
+  "version": "1.0.0",
+  "description": "Zip and destroy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "github:jagomf/jjscript",
+  "author": "Jago <@jagomf>",
+  "license": "MIT",
+  "dependencies": {
+    "archiver": "^5.3.0"
+  }
+}
