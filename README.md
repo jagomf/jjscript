@@ -4,6 +4,8 @@
 
 Scans recursively for all files inside a given folder with a specific extension, zips them, and deletes originals.
 
+**NOTE**: This project is the NodeJS-based solution. For an executable standalone app that runs on Windows, Linux and macOS, try [JJpack](https://github.com/jagomf/jjpack).
+
 ## Install
 
 1. Make sure you have [NodeJS](https://nodejs.org/) installed. If you don't, go get it.
